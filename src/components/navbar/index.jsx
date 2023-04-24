@@ -1,6 +1,6 @@
 import React from "react";
 import "./styles.css";
-import Botao from "../botao.jsx";
+import Botao from "../botaonav.jsx";
 
 
 export default function Navbar(){

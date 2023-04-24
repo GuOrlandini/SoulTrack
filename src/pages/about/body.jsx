@@ -12,7 +12,7 @@ function Body() {
         <img className="aboutimg" src="https://i.imgur.com/4jsdv2b.png" />
         </div>
 
-        <h2>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Animi vel suscipit, quae velit accusamus ipsam commodi porro tenetur.</h2>
+        <h2>kkkkkkkkkkkk vini volves</h2>
         </Container>
     </div>
   );
