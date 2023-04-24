@@ -1,6 +1,20 @@
+:root {
+  --cor1: #CABFAB;
+  --cor1h: #dbd0bc;
+  --cor2: #DFD8C8;
+  --cor2h: #F1EAD8;
+  --cor3: #41444B;
+  --cor3h: #565a63;
+  --cor4: #52575D;
+  --cor4h: #616870;
+
+}
 * {
   padding: 0%;
   margin: 0%;
   text-decoration: none;
 }
 
+body {
+  background-color: var(--cor2);
+}

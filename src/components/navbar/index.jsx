@@ -1,16 +1,17 @@
 import React from "react";
 import "./styles.css";
-import { Button } from "@mui/material";
-import Botao from "./botao";
+import Botao from "../botao.jsx";
+
 
 export default function Navbar(){
     return (
         <nav className="navbar">
             <div>
-                <a href="/"> <img className="logo" src="https://i.imgur.com/vAHctjm.png"/> </a>
+
+            <a href="/"> <img className="logo" src="https://i.imgur.com/YpOLmro.png"/> </a>
             </div>
          <ul className="navlinks">  
-        <li><Botao/></li> 
+        <li><Botao/></li>
         </ul>
             
     </nav>

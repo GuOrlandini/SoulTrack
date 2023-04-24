@@ -1,32 +1,29 @@
 
 .navbar{
     display: flex;
+    overflow: hidden;
     width: 100%;
+    margin-bottom: 20px;
     align-items: center;
     justify-content: space-between;
-    background-color: #8EA7E9;
+    background-color: var(--cor1);
 }
 
 .logo{
-    width: 35%;
+    width: 80%;
     margin-left: 20%;
-    margin-top: 10px;
+    
     
 }
 
 .navlinks {
-    display: flex;
+    display: block;
     list-style: none;
     
 }
 
-.navlinks li button{
-    margin-right: 20px;
-    
-}
-
-body {
-    background-color: #FFF2F2;
+.navlinks li a{
+    margin-right: 20px;    
 }
 
 
